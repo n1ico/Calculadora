@@ -1,2 +1,2 @@
 # Calculadora
-É uma calculadora simples, em php com um pouco de ccs e html, as contas são feitas pela url, e enquanto não forem postas pra execução aparece apenas a mensagem "nenhuma opão foi selecionada".
+É uma calculadora simples, em php dentro de uma estrutura de formulário, faz as operações básicas de adição, subtração, divisão e multiplicação, está sujeita a modificações futuras.
